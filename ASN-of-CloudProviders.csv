@@ -1,4 +1,4 @@
-﻿NETBLOCK;COMPANY;NUM OF IPS
+NETBLOCK;COMPANY;NUM OF IPS
 103.147.153.0/24;SHINE SERVERS LLP;256
 109.202.100.0/24;AS57172 network;256
 109.202.101.0/24;AS57172 network;256
@@ -56,9 +56,9 @@
 185.202.108.0/24;Seltell LLC;256
 185.212.115.0/24;RT Telecom LLC;256
 185.229.58.0/24;Packethub S.A.;256
-185.23.212.0/22;Global Layer B.V.;1,024
+185.23.212.0/22;Global Layer B.V.;1024
 185.23.214.0/24;Global Layer B.V.;256
-185.251.144.0/22;CodeZone inc.;1,024
+185.251.144.0/22;CodeZone inc.;1024
 185.68.184.0/24;FINE GROUP SERVERS SOLUTIONS LLC;256
 185.68.185.0/24;FINE GROUP SERVERS SOLUTIONS LLC;256
 185.68.246.0/24;FINE GROUP SERVERS SOLUTIONS LLC;256
@@ -123,12 +123,12 @@
 143.244.32.0/24;Datacamp Limited;256
 143.244.33.0/24;Datacamp Limited;256
 143.244.35.0/24;Datacamp Limited;256
-143.244.36.0/22;Datacamp Limited;1,024
+143.244.36.0/22;Datacamp Limited;1024
 143.244.40.0/24;Datacamp Limited;256
 143.244.42.0/24;Datacamp Limited;256
 143.244.43.0/24;Datacamp Limited;256
 143.244.45.0/24;Datacamp Limited;256
-143.244.48.0/22;Datacamp Limited;1,024
+143.244.48.0/22;Datacamp Limited;1024
 143.244.56.0/23;Datacamp Limited;512
 143.244.58.0/23;Datacamp Limited;512
 143.244.60.0/23;Datacamp Limited;512
@@ -228,7 +228,7 @@
 103.78.122.0/24;Photonvps Holding LLC;256
 103.78.123.0/24;Photonvps Holding LLC;256
 103.99.52.0/24;Retro Host LLC;256
-104.149.0.0/16;Psychz Networks;65,536
+104.149.0.0/16;Psychz Networks;65536
 104.149.101.0/24;Psychz Networks;256
 104.149.110.0/24;Psychz Networks;256
 104.149.112.0/24;Psychz Networks;256
@@ -243,8 +243,8 @@
 104.149.60.0/24;Psychz Networks;256
 104.149.93.0/24;Psychz Networks;256
 104.160.231.0/24;Computer Expert Group Inc;256
-104.216.0.0/15;Psychz Networks;131,072
-104.216.0.0/17;Psychz Networks;32,768
+104.216.0.0/15;Psychz Networks;131072
+104.216.0.0/17;Psychz Networks;32768
 104.216.0.0/24;Psychz Networks;256
 104.216.1.0/24;Psychz Networks;256
 104.216.118.0/24;Go Mach 5, LLC;256
@@ -272,7 +272,7 @@
 104.217.103.0/24;Psychz Networks;256
 104.217.191.0/24;Psychz Networks;256
 104.217.196.0/24;Psychz Networks;256
-104.217.248.0/21;Psychz Networks Dallas;2,048
+104.217.248.0/21;Psychz Networks Dallas;2048
 104.217.250.0/24;Psychz Networks Dallas;256
 104.225.208.0/24;NixiHost.com Incorporated;256
 104.238.249.0/24;My Hosting 365;256
@@ -287,7 +287,7 @@
 104.250.127.0/24;CLDR.eu;256
 104.254.56.0/24;SophieAD;256
 104.254.63.0/24;Owned-Networks;256
-107.160.0.0/16;Psychz Networks;65,536
+107.160.0.0/16;Psychz Networks;65536
 107.160.125.0/24;Manak Technopark Pvt. Ltd.;256
 107.160.169.0/24;Psychz Networks;256
 107.160.222.0/24;Psychz Networks;256
@@ -297,108 +297,108 @@
 107.161.175.0/24;SYN LTD;256
 107.181.133.0/24;SYN LTD;256
 107.181.135.0/24;SYN LTD;256
-108.171.240.0/20;Psychz Networks;4,096
+108.171.240.0/20;Psychz Networks;4096
 110.44.6.0/24;HostCircle IT Solutions PVT LTD;256
-103.253.144.0/22;Digital Ocean, Inc.;1,024
-104.131.0.0/18;DigitalOcean, LLC;16,384
-104.131.128.0/20;DigitalOcean, LLC;4,096
-104.131.144.0/20;DigitalOcean, LLC;4,096
-104.131.160.0/20;DigitalOcean, LLC;4,096
-104.131.176.0/20;DigitalOcean, LLC;4,096
-104.131.192.0/19;DigitalOcean, LLC;8,192
-104.131.224.0/19;DigitalOcean, LLC;8,192
-104.131.64.0/18;DigitalOcean, LLC;16,384
-104.236.0.0/18;DigitalOcean, LLC;16,384
-104.236.128.0/18;DigitalOcean, LLC;16,384
-104.236.192.0/18;DigitalOcean, LLC;16,384
-104.236.64.0/18;DigitalOcean, LLC;16,384
-104.248.0.0/20;DigitalOcean, LLC;4,096
-104.248.100.0/22;DigitalOcean, LLC;1,024
-104.248.104.0/22;DigitalOcean, LLC;1,024
-104.248.108.0/22;DigitalOcean, LLC;1,024
-104.248.112.0/20;DigitalOcean, LLC;4,096
-104.248.128.0/20;DigitalOcean, LLC;4,096
-104.248.144.0/20;DigitalOcean, LLC;4,096
-104.248.160.0/20;DigitalOcean, LLC;4,096
-104.248.16.0/20;DigitalOcean, LLC;4,096
-104.248.176.0/20;DigitalOcean, LLC;4,096
-104.248.192.0/20;DigitalOcean, LLC;4,096
-104.248.208.0/20;DigitalOcean, LLC;4,096
-104.248.224.0/20;DigitalOcean, LLC;4,096
-104.248.240.0/20;DigitalOcean, LLC;4,096
-104.248.32.0/20;DigitalOcean, LLC;4,096
-104.248.48.0/20;DigitalOcean, LLC;4,096
-104.248.64.0/20;DigitalOcean, LLC;4,096
-104.248.80.0/20;DigitalOcean, LLC;4,096
-104.248.96.0/22;DigitalOcean, LLC;1,024
-107.170.0.0/17;DigitalOcean, LLC;32,768
-107.170.128.0/19;DigitalOcean, LLC;8,192
-107.170.160.0/19;DigitalOcean, LLC;8,192
-107.170.192.0/18;DigitalOcean, LLC;16,384
-128.199.0.0/20;DigitalOcean, LLC;4,096
-128.199.128.0/18;DigitalOcean, LLC;16,384
-128.199.16.0/20;DigitalOcean, LLC;4,096
-128.199.192.0/18;DigitalOcean, LLC;16,384
-128.199.32.0/19;DigitalOcean, LLC;8,192
-128.199.64.0/18;DigitalOcean, LLC;16,384
-134.122.0.0/20;DigitalOcean, LLC;4,096
-134.122.112.0/20;DigitalOcean, LLC;4,096
-134.122.16.0/20;DigitalOcean, LLC;4,096
-134.122.32.0/20;DigitalOcean, LLC;4,096
-134.122.48.0/20;DigitalOcean, LLC;4,096
-134.122.64.0/20;DigitalOcean, LLC;4,096
-134.122.80.0/20;DigitalOcean, LLC;4,096
-134.122.96.0/20;DigitalOcean, LLC;4,096
-134.209.0.0/20;DigitalOcean, LLC;4,096
-134.209.112.0/20;DigitalOcean, LLC;4,096
-134.209.128.0/22;DigitalOcean, LLC;1,024
-134.209.132.0/22;DigitalOcean, LLC;1,024
-134.209.136.0/22;DigitalOcean, LLC;1,024
-134.209.140.0/22;DigitalOcean, LLC;1,024
-134.209.144.0/20;DigitalOcean, LLC;4,096
-134.209.160.0/20;DigitalOcean, LLC;4,096
-134.209.16.0/20;DigitalOcean, LLC;4,096
-134.209.176.0/20;DigitalOcean, LLC;4,096
-134.209.192.0/20;DigitalOcean, LLC;4,096
-134.209.208.0/20;DigitalOcean, LLC;4,096
-134.209.224.0/20;DigitalOcean, LLC;4,096
-134.209.240.0/20;DigitalOcean, LLC;4,096
-134.209.32.0/20;DigitalOcean, LLC;4,096
-134.209.48.0/20;DigitalOcean, LLC;4,096
-134.209.64.0/20;DigitalOcean, LLC;4,096
-134.209.80.0/20;DigitalOcean, LLC;4,096
-134.209.96.0/20;DigitalOcean, LLC;4,096
-137.184.0.0/20;DigitalOcean, LLC;4,096
-137.184.112.0/20;DigitalOcean, LLC;4,096
-137.184.128.0/20;DigitalOcean, LLC;4,096
-137.184.144.0/20;DigitalOcean, LLC;4,096
-137.184.160.0/20;DigitalOcean, LLC;4,096
-137.184.16.0/20;DigitalOcean, LLC;4,096
-137.184.176.0/20;DigitalOcean, LLC;4,096
-137.184.192.0/20;DigitalOcean, LLC;4,096
-137.184.208.0/20;DigitalOcean, LLC;4,096
-137.184.224.0/20;DigitalOcean, LLC;4,096
-137.184.240.0/22;DigitalOcean, LLC;1,024
-137.184.244.0/22;DigitalOcean, LLC;1,024
-137.184.248.0/22;DigitalOcean, LLC;1,024
+103.253.144.0/22;Digital Ocean, Inc.;1024
+104.131.0.0/18;DigitalOcean, LLC;16384
+104.131.128.0/20;DigitalOcean, LLC;4096
+104.131.144.0/20;DigitalOcean, LLC;4096
+104.131.160.0/20;DigitalOcean, LLC;4096
+104.131.176.0/20;DigitalOcean, LLC;4096
+104.131.192.0/19;DigitalOcean, LLC;8192
+104.131.224.0/19;DigitalOcean, LLC;8192
+104.131.64.0/18;DigitalOcean, LLC;16384
+104.236.0.0/18;DigitalOcean, LLC;16384
+104.236.128.0/18;DigitalOcean, LLC;16384
+104.236.192.0/18;DigitalOcean, LLC;16384
+104.236.64.0/18;DigitalOcean, LLC;16384
+104.248.0.0/20;DigitalOcean, LLC;4096
+104.248.100.0/22;DigitalOcean, LLC;1024
+104.248.104.0/22;DigitalOcean, LLC;1024
+104.248.108.0/22;DigitalOcean, LLC;1024
+104.248.112.0/20;DigitalOcean, LLC;4096
+104.248.128.0/20;DigitalOcean, LLC;4096
+104.248.144.0/20;DigitalOcean, LLC;4096
+104.248.160.0/20;DigitalOcean, LLC;4096
+104.248.16.0/20;DigitalOcean, LLC;4096
+104.248.176.0/20;DigitalOcean, LLC;4096
+104.248.192.0/20;DigitalOcean, LLC;4096
+104.248.208.0/20;DigitalOcean, LLC;4096
+104.248.224.0/20;DigitalOcean, LLC;4096
+104.248.240.0/20;DigitalOcean, LLC;4096
+104.248.32.0/20;DigitalOcean, LLC;4096
+104.248.48.0/20;DigitalOcean, LLC;4096
+104.248.64.0/20;DigitalOcean, LLC;4096
+104.248.80.0/20;DigitalOcean, LLC;4096
+104.248.96.0/22;DigitalOcean, LLC;1024
+107.170.0.0/17;DigitalOcean, LLC;32768
+107.170.128.0/19;DigitalOcean, LLC;8192
+107.170.160.0/19;DigitalOcean, LLC;8192
+107.170.192.0/18;DigitalOcean, LLC;16384
+128.199.0.0/20;DigitalOcean, LLC;4096
+128.199.128.0/18;DigitalOcean, LLC;16384
+128.199.16.0/20;DigitalOcean, LLC;4096
+128.199.192.0/18;DigitalOcean, LLC;16384
+128.199.32.0/19;DigitalOcean, LLC;8192
+128.199.64.0/18;DigitalOcean, LLC;16384
+134.122.0.0/20;DigitalOcean, LLC;4096
+134.122.112.0/20;DigitalOcean, LLC;4096
+134.122.16.0/20;DigitalOcean, LLC;4096
+134.122.32.0/20;DigitalOcean, LLC;4096
+134.122.48.0/20;DigitalOcean, LLC;4096
+134.122.64.0/20;DigitalOcean, LLC;4096
+134.122.80.0/20;DigitalOcean, LLC;4096
+134.122.96.0/20;DigitalOcean, LLC;4096
+134.209.0.0/20;DigitalOcean, LLC;4096
+134.209.112.0/20;DigitalOcean, LLC;4096
+134.209.128.0/22;DigitalOcean, LLC;1024
+134.209.132.0/22;DigitalOcean, LLC;1024
+134.209.136.0/22;DigitalOcean, LLC;1024
+134.209.140.0/22;DigitalOcean, LLC;1024
+134.209.144.0/20;DigitalOcean, LLC;4096
+134.209.160.0/20;DigitalOcean, LLC;4096
+134.209.16.0/20;DigitalOcean, LLC;4096
+134.209.176.0/20;DigitalOcean, LLC;4096
+134.209.192.0/20;DigitalOcean, LLC;4096
+134.209.208.0/20;DigitalOcean, LLC;4096
+134.209.224.0/20;DigitalOcean, LLC;4096
+134.209.240.0/20;DigitalOcean, LLC;4096
+134.209.32.0/20;DigitalOcean, LLC;4096
+134.209.48.0/20;DigitalOcean, LLC;4096
+134.209.64.0/20;DigitalOcean, LLC;4096
+134.209.80.0/20;DigitalOcean, LLC;4096
+134.209.96.0/20;DigitalOcean, LLC;4096
+137.184.0.0/20;DigitalOcean, LLC;4096
+137.184.112.0/20;DigitalOcean, LLC;4096
+137.184.128.0/20;DigitalOcean, LLC;4096
+137.184.144.0/20;DigitalOcean, LLC;4096
+137.184.160.0/20;DigitalOcean, LLC;4096
+137.184.16.0/20;DigitalOcean, LLC;4096
+137.184.176.0/20;DigitalOcean, LLC;4096
+137.184.192.0/20;DigitalOcean, LLC;4096
+137.184.208.0/20;DigitalOcean, LLC;4096
+137.184.224.0/20;DigitalOcean, LLC;4096
+137.184.240.0/22;DigitalOcean, LLC;1024
+137.184.244.0/22;DigitalOcean, LLC;1024
+137.184.248.0/22;DigitalOcean, LLC;1024
 137.184.253.0/24;DigitalOcean, LLC;256
 137.184.254.0/24;DigitalOcean, LLC;256
 137.184.255.0/24;DigitalOcean, LLC;256
-137.184.32.0/20;DigitalOcean, LLC;4,096
-137.184.48.0/20;DigitalOcean, LLC;4,096
-137.184.64.0/20;DigitalOcean, LLC;4,096
-137.184.80.0/20;DigitalOcean, LLC;4,096
-137.184.96.0/20;DigitalOcean, LLC;4,096
-138.197.0.0/20;DigitalOcean, LLC;4,096
-138.197.112.0/20;DigitalOcean, LLC;4,096
-138.197.128.0/20;DigitalOcean, LLC;4,096
-138.197.144.0/20;DigitalOcean, LLC;4,096
-138.197.160.0/20;DigitalOcean, LLC;4,096
-138.197.16.0/20;DigitalOcean, LLC;4,096
-138.197.176.0/20;DigitalOcean, LLC;4,096
-138.197.192.0/20;DigitalOcean, LLC;4,096
-138.197.208.0/20;DigitalOcean, LLC;4,096
-138.197.224.0/22;DigitalOcean, LLC;1,024
+137.184.32.0/20;DigitalOcean, LLC;4096
+137.184.48.0/20;DigitalOcean, LLC;4096
+137.184.64.0/20;DigitalOcean, LLC;4096
+137.184.80.0/20;DigitalOcean, LLC;4096
+137.184.96.0/20;DigitalOcean, LLC;4096
+138.197.0.0/20;DigitalOcean, LLC;4096
+138.197.112.0/20;DigitalOcean, LLC;4096
+138.197.128.0/20;DigitalOcean, LLC;4096
+138.197.144.0/20;DigitalOcean, LLC;4096
+138.197.160.0/20;DigitalOcean, LLC;4096
+138.197.16.0/20;DigitalOcean, LLC;4096
+138.197.176.0/20;DigitalOcean, LLC;4096
+138.197.192.0/20;DigitalOcean, LLC;4096
+138.197.208.0/20;DigitalOcean, LLC;4096
+138.197.224.0/22;DigitalOcean, LLC;1024
 103.139.48.0/24;RapidSeedbox Ltd;256
 103.139.49.0/24;RapidSeedbox Ltd;256
 103.139.51.0/24;RapidSeedbox Ltd;256
@@ -412,23 +412,23 @@
 103.74.78.0/24;RapidSeedbox Ltd;256
 103.74.79.0/24;RapidSeedbox Ltd;256
 109.70.10.0/23;Hosting Infrastructure 03;512
-109.70.12.0/22;Hosting Infrastructure;1,024
+109.70.12.0/22;Hosting Infrastructure;1024
 109.70.9.0/24;Hosting Infrastructure 03;256
 141.193.20.0/24;RapidSeedbox Ltd;256
-145.255.128.0/21;Copernica BV;2,048
+145.255.128.0/21;Copernica BV;2048
 154.16.160.0/24;Digital Energy Technologies Limited;256
 154.16.183.0/24;SmartHost, LLC;256
 154.6.146.0/24;Cogent communications - IPENG;256
-159.255.192.0/22;Saima Sistemas SL;1,024
+159.255.192.0/22;Saima Sistemas SL;1024
 162.221.63.0/24;2checkout.com;256
 176.96.140.0/24;RapidSeedbox Ltd;256
 176.96.141.0/24;RapidSeedbox Ltd;256
 176.96.142.0/24;RapidSeedbox Ltd;256
 176.96.143.0/24;RapidSeedbox Ltd;256
-178.162.128.0/18;LeaseWeb Netherlands B.V.;16,384
-178.162.176.0/20;LeaseWeb Netherlands B.V.;4,096
+178.162.128.0/18;LeaseWeb Netherlands B.V.;16384
+178.162.176.0/20;LeaseWeb Netherlands B.V.;4096
 178.18.16.0/24;LeaseWeb;256
-178.18.20.0/22;GLOBAL-CLOUD-SOLUTIONS;1,024
+178.18.20.0/22;GLOBAL-CLOUD-SOLUTIONS;1024
 178.18.24.0/23;GLOBAL-CLOUD-SOLUTIONS;512
 178.18.27.0/24;FiberMax Networks BV;256
 178.18.30.0/24;FiberMax Networks BV;256
@@ -438,26 +438,26 @@
 185.100.132.0/24;SynEdge Luxembourg S.A.;256
 185.108.84.0/23;Ardis.ru;512
 185.108.85.0/24;Ardis LLC;256
-185.113.88.0/22;JENT Internet Solutions;1,024
-185.122.168.0/22;RapidSeedbox Ltd;1,024
+185.113.88.0/22;JENT Internet Solutions;1024
+185.122.168.0/22;RapidSeedbox Ltd;1024
 185.122.168.0/24;RapidSeedbox Ltd;256
 185.123.60.0/24;STH Automatisering BV;256
 185.126.64.0/24;RapidSeedbox Ltd;256
 185.126.65.0/24;RapidSeedbox Ltd;256
 185.126.66.0/24;RapidSeedbox Ltd;256
 185.129.121.0/24;DEL Systems d.o.o;256
-185.131.24.0/22;Copernica BV;1,024
-185.140.164.0/22;EUCLID SERVICES LIMITED;1,024
-185.155.200.0/22;RapidSeedbox Ltd;1,024
+185.131.24.0/22;Copernica BV;1024
+185.140.164.0/22;EUCLID SERVICES LIMITED;1024
+185.155.200.0/22;RapidSeedbox Ltd;1024
 185.155.52.0/24;Northfield IT Limited;256
 185.164.56.0/24;RapidSeedbox Ltd;256
 185.164.57.0/24;RapidSeedbox Ltd;256
 185.164.58.0/24;RapidSeedbox Ltd;256
-185.168.248.0/22;RapidSeedbox Ltd;1,024
+185.168.248.0/22;RapidSeedbox Ltd;1024
 185.170.43.0/24;Cyber Assets FZCO;256
-185.17.184.0/22;LeaseWeb Netherlands B.V.;1,024
+185.17.184.0/22;LeaseWeb Netherlands B.V.;1024
 185.181.8.0/24;Global Cloud Infrastructure Company Limited;256
-185.192.0.0/22;RapidSeedbox Ltd;1,024
+185.192.0.0/22;RapidSeedbox Ltd;1024
 185.194.30.0/24;Internet Colocation Limited;256
 185.203.249.0/24;Bluematrix Research LTD;256
 185.211.154.0/24;FiberMax Networks BV;256
@@ -479,7 +479,7 @@
 185.247.117.0/24;Global Cloud Infrastructure Company Limited;256
 185.28.68.0/24;LeaseWeb CDN B.V.;256
 185.30.232.0/24;RapidSeedbox Ltd;256
-185.34.68.0/22;AlexoMedia Ltd.;1,024
+185.34.68.0/22;AlexoMedia Ltd.;1024
 185.38.185.0/24;Montenegro ams;256
 185.38.187.0/24;Montenegro ams;256
 185.44.22.0/23;GIMASI SA;512
@@ -489,9 +489,9 @@
 185.46.232.0/24;ON2IT B.V.;256
 185.51.192.0/24;Panq B.V.;256
 185.60.164.0/24;LeGuide.com S.A.;256
-185.67.4.0/22;Centralpoint Holding B.V.;1,024
+185.67.4.0/22;Centralpoint Holding B.V.;1024
 185.67.6.0/23;Central Point vCloud vDC;512
-185.71.60.0/22;Cobytes B.V.;1,024
+185.71.60.0/22;Cobytes B.V.;1024
 185.73.32.0/23;Innerheight Internet Diensten B.V.;512
 185.73.34.0/24;Innerheight Internet Diensten B.V.;256
 185.9.52.0/24;RapidSeedbox Ltd;256
